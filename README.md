@@ -2,6 +2,7 @@
 Easy to use Render Material based footstep SFX system with Automation all over the place
 
 This system tracks the feet for correctly timed steps
+
 Having Advanced disabled is for in editor testing using rate by speed
 
 I lazy and im the Camera guy so heres a video instead of text documentation
