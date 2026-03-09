@@ -12,3 +12,4 @@ Terrain uses SFX 0
 
 https://github.com/user-attachments/assets/bc5877dc-87cb-475e-8b7b-c212e0944d9a
 
+Making an option to hear other players footsteps through Netcode is a planned feature/variant with an option for Max player Footsteps at once
